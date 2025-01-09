@@ -12,4 +12,4 @@ Interactive viewer for mandelbrot sets
 https://github.com/rosslh/mandelbrot.site - written in rust too
 
 #### Cool example of output
-[](gt/out9.png)
+![](gt/out9.png)
